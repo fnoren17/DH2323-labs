@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\dgi\lab3\tanklab\main.cpp(614): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\dgi\lab3\tanklab\main.cpp(641): warning C4018: '<': signed/unsigned mismatch
+  tankLab.vcxproj -> D:\DGI\Lab3\tankLab\.\Debug\tankLab.exe

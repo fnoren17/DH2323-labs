@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\dgi\lab2\lab2-2\lab2-2\mathlab\main.cpp(117): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  lab2-2.vcxproj -> D:\DGI\Lab2\lab2-2\Debug\lab2-2.exe

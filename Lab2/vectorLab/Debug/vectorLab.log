@@ -1,0 +1,4 @@
+﻿  Skipping... (no relevant changes detected)
+  vectorLab.cpp
+vector.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  vectorLab.vcxproj -> D:\DGI\Lab2\vectorLab\.\Debug\vectorLab.exe
